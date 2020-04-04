@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/62793390/78417228-112d9680-766b-11ea-987e-798d3598a82a.png" width="300">
 
-・ChildLockData.swift (データを管理するクラス) 
+・ChildLockData.swift (データを管理するクラス)  
 ・ChildLockView.swift (Viewを作成するクラス) 
 
 こちら2つのクラスをプロジェクトに取り込みdelegeteの設定をし、以下を呼び出したいところで記載するだけです。　 
