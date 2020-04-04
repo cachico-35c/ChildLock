@@ -1,0 +1,6 @@
+framework module Pods_ChildLock {
+  umbrella header "Pods-ChildLock-umbrella.h"
+
+  export *
+  module * { export * }
+}

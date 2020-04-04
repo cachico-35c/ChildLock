@@ -1,0 +1,6 @@
+framework module Pods_ChildLock_ChildLockUITests {
+  umbrella header "Pods-ChildLock-ChildLockUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
